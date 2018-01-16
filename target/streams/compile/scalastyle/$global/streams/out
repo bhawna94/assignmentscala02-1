@@ -1,0 +1,18 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/knoldus/assignmentscala-02-1/scalastyle-config.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/assignmentscala-02-1/src/main/scala/edu/knoldus/Numberoperations.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/assignmentscala-02-1/src/main/scala/edu/knoldus/Numberoperations.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/assignmentscala-02-1/src/main/scala/edu/knoldus/Listoperation.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/assignmentscala-02-1/src/main/scala/edu/knoldus/Listoperation.scala: File must end with newline character[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/assignmentscala-02-1/src/main/scala/edu/knoldus/Listoperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/assignmentscala-02-1/src/main/scala/edu/knoldus/Operation.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/assignmentscala-02-1/src/main/scala/edu/knoldus/Operation.scala:8:31: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/assignmentscala-02-1/src/main/scala/edu/knoldus/Operation.scala:8:33: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/assignmentscala-02-1/src/main/scala/edu/knoldus/Operation.scala:8:35: Magic Number[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/assignmentscala-02-1/src/main/scala/edu/knoldus/Operation.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 3 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 4 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 11 ms[0m
+[0m[[0m[32msuccess[0m] [0m[0mcreated output: /home/knoldus/assignmentscala-02-1/target[0m
